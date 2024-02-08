@@ -12,7 +12,7 @@
 		"author": "OWASP",
 		"notes": "Original main repo: http://github.com/jerryhoff/WebGoat.NET. Others: https://github.com/rapPayne/WebGoat.Net , https://github.com/jowasp/WebGoat.NET.",
 		"badge": "jerryhoff/WebGoat.NET"
-	},
+	
 	{
 		"url": "http://testphp.vulnweb.com",
 		"name": "Acuart",
